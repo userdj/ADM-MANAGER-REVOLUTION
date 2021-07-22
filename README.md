@@ -2,7 +2,7 @@
 ```
 * UPDATE 21/06/2021 - PROYECTO EN DESARROLLO
 ```
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-REVOLUTION/blob/master/Imagenes/ADM_MANAGER_REVOLUTION.png)
+![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-REVOLUTION/blob/main/Imagenes/ADM_MANAGER_REVOLUTION.png)
 
 **Manager Script**
 
