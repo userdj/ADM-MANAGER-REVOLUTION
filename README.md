@@ -1,0 +1,2 @@
+# ADM-MANAGER-REVOLUTION
+ Manager Script
