@@ -5,7 +5,8 @@
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-REVOLUTION/blob/main/Imagenes/ADM_MANAGER_REVOLUTION.png)
 
 ```
-ADM MANAGER REVOLUTION es la continuacion privada en español latino de NEW ADM-MANAGER (NEW-ULTIMATE) r6.4.1
+ADM MANAGER REVOLUTION 
+                 es la continuacion privada en español latino de NEW ADM-MANAGER (NEW-ULTIMATE) r6.4.1
                  este script cuenta con un conjunto de características y herramientas adecuadas para 
                  ofrecer extrema facilidad de manejo en servidores Linux con un enfoque en el uso de 
                  VPN, tiene una interfaz agradable aportando información detallada sobre la máquina
