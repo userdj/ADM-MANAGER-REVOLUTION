@@ -18,7 +18,7 @@
 
 ## :book: Installation
 
-USO PRIVADO BAJO DONATIVO https://t.me/admmanager_b0t
+USO PRIVADO BAJO DONATIVO https://paypal.me/JPGR7
 
 ```
 ADM-REVOLUTION (las dependencias faltantes se instalarán automáticamente)
