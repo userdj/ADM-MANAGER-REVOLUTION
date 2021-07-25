@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-REVOLUTION/
 | @Phreaker56      | VPS-Manager     |
 | @RicKbrL         | VPS-Pack        |
 | @E8th4ver        | Adm-Manager     |
-| @E8th4ver        | New-Ultimate    |
+| @E8th4ver        | New Adm-Manager |
 | @Crazy_vpn       | SSHPlus Manager |
 
 ```
